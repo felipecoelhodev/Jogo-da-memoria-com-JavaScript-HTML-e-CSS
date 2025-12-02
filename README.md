@@ -1,1 +1,1 @@
-# Jogo-da-memoria-com-JavaScript-HTML-e-CSS
+Jogo da memória com o tema do Rick and Morty usando HTML, CSS e JavaScript.
